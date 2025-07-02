@@ -1,6 +1,0 @@
-# Piece of the Void Texture
-# This is a placeholder for the item texture.
-# You need to create a 16x16 pixel PNG file called "piece_of_the_void.png"
-# and place it in this directory to replace this placeholder.
-# The texture should represent a dark, void-like material - perhaps something
-# dark purple or black with some mystical sparkles or void-like effects.
